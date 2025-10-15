@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**GabrielMagnusVieira/GabrielMagnusVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Gabriel Magnus Vieira**, Analista de QA e Engenheiro de Qualidade de Software 💻  
+Atualmente estudando na EBAC e praticando **testes automatizados**, **manuais** e **integrações de APIs**.
 
-Here are some ideas to get you started:
+🔍 Áreas de interesse:
+- Testes de API com Cypress e Postman  
+- Testes E2E e UI com Cypress  
+- Testes de performance com JMeter  
+- Integração com CI/CD (GitHub Actions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contato:**
+- Email: magnus181098@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/gabriel-magnus-vieira-qa)
